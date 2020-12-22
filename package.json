@@ -6,11 +6,9 @@
   "repository": "git@github.com:Kyome22/NodePack.git",
   "author": "Kyome22 <kyomesuke@gmail.com>",
   "scripts": {
-      "server": "node index.js"
+    "server": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
     "node-fetch": "^2.6.1"
   }
 }
